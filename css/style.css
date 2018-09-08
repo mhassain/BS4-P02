@@ -1,0 +1,61 @@
+.navbar{
+	border-bottom: 3px solid #008ed6;
+	background: #292b2c;
+	opacity: 0.8; 
+}
+#menu ul li a{
+	color:#fff;
+}
+
+/* Home section Start*/
+
+#home{
+	background: url(../img/business_01.jpg)center center no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	min-height: 700px;
+}
+.dark-overlay{
+	background:rgba(0,0,0,0.6);
+	min-height: 700px;
+}
+.icon i{
+	background: #fff;
+	color: #008ed6;
+	font-size: 20px;
+	padding: 4px;
+	border-radius: 5px;
+}
+.card{
+	opacity: .8;
+}
+.home-inner{
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+.banner-text strong{
+	color: yellow;
+}
+/* Home section End*/
+
+/*==== Contact Section =====*/
+
+.social ul li{
+	padding:10px;
+}
+
+.social ul li a{
+	font-size: 26px;
+
+}
+.social ul li a i{
+	color: #292b2c;
+}
+.social ul li a i:hover{
+	color: green;
+}
+
+.address p{
+	font-size: 17px;
+}
